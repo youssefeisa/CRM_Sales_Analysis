@@ -1,0 +1,25 @@
+{
+  "$schema": "https://powerbi.com/product/schema#reportThemeSchema",
+  "name": "Navy Clean Theme",
+  "dataColors": [
+    "#3498DB",
+    "#2ECC71",
+    "#F39C12",
+    "#E74C3C",
+    "#1B2A4A",
+    "#5DADE2",
+    "#58D68D",
+    "#F5B041",
+    "#EC7063",
+    "#5D6D7E"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#1B2A4A",
+  "tableAccent": "#3498DB",
+  "good": "#2ECC71",
+  "neutral": "#F39C12",
+  "bad": "#E74C3C",
+  "minimum": "#3498DB",
+  "center": "#F39C12",
+  "maximum": "#E74C3C"
+}
